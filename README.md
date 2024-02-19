@@ -73,3 +73,7 @@ index c706500..f6f928d 100644
 ### Atoms
 
 There are a few components that could probably benefit from going more atomic, like the form inputs.
+
+### Error boundaries 
+
+The error boundaries aren't very pretty.
