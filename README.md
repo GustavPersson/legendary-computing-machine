@@ -69,3 +69,7 @@ index c706500..f6f928d 100644
    const recipeIndex = await db.getIndex("/recipes", id);
 
 ```
+
+### Atoms
+
+There are a few components that could probably benefit from going more atomic, like the form inputs.
